@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: "epilogue";
-  src: url("./fonts/Epilogue-Regular.ttf") format("truetype");
+  src: url("../public/fonts/Epilogue-Regular.ttf") format("truetype");
 }
 
 * {

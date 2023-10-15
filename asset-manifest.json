@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/snap-landing-react/static/css/main.9872c36c.css",
+    "main.js": "/snap-landing-react/static/js/main.67b374fd.js",
+    "static/js/787.50ccd558.chunk.js": "/snap-landing-react/static/js/787.50ccd558.chunk.js",
+    "static/media/Epilogue-Regular.ttf": "/snap-landing-react/static/media/Epilogue-Regular.3446cbdeae664b7f3dc4.ttf",
+    "index.html": "/snap-landing-react/index.html",
+    "main.9872c36c.css.map": "/snap-landing-react/static/css/main.9872c36c.css.map",
+    "main.67b374fd.js.map": "/snap-landing-react/static/js/main.67b374fd.js.map",
+    "787.50ccd558.chunk.js.map": "/snap-landing-react/static/js/787.50ccd558.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9872c36c.css",
+    "static/js/main.67b374fd.js"
+  ]
+}

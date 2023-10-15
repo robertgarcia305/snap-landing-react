@@ -9,7 +9,6 @@ const Nav = (props) => {
           <div className="logo-nav-wrap">
             <img src="img/logo.svg"></img>
           </div>
-
           <ul className="main-menu-nav-wrap">
             <div className="nav-block">
               <div className="li-wrap">

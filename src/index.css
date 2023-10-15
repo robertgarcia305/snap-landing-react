@@ -623,6 +623,12 @@ footer {
     margin: 10px;
   }
 
+  .top-menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
   .top-menu ul {
     padding: 0px;
   }
